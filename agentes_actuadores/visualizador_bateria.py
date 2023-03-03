@@ -1,6 +1,6 @@
 """"
-Muestra los valores de carga de la Bateria
-Clase dummy que simula la visualizacion de los parametros
+Muestra los valores de carga de la Batería
+Clase dummy que simula la visualizacion de los parámetros
 """
 
 

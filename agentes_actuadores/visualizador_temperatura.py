@@ -1,6 +1,6 @@
 """
-Clase responsable de sacar el dato de las temperaturas
-a un visualizador
+Clase responsable de presentar el dato de las temperaturas
+en un visualizador
 Clase dummy
 """
 
